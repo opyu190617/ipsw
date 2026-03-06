@@ -136,10 +136,10 @@
   "fcs_keys_beta": {
     "fcs_keys": {
       "beta": {
-        "fingerprint": "23E5223f_25E5223i_23O5225f",
-        "ios_build": "23E5223f",
+        "fingerprint": "23E5223k_25E5223i_23O5225f",
+        "ios_build": "23E5223k",
         "macos_build": "25E5223i",
-        "updated_at": "2026-03-04T19:14:49Z",
+        "updated_at": "2026-03-06T19:13:04Z",
         "visionos_build": "23O5225f"
       }
     }
